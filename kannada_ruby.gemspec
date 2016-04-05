@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "kannada_ruby"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1.2"
   spec.authors       = ["shashikirans"]
   spec.email         = ["skiran@qwinix.io"]
   spec.summary       = %q{A collection of kannada words for ruby methods}
